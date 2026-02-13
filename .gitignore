@@ -1,0 +1,5 @@
+.venv
+yolo26n.pt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
